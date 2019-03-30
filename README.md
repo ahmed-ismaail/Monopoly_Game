@@ -1,3 +1,1 @@
-# oop-monopoly
-//this is just initial design//(experiment)
-just download the whole file of monopoly and run the visual studio file to see the design
+•	Monopoly Game is a board game where players roll two dice to move around the game board, buying and trading properties, and develop them with houses and hotels. Players collect rent from their opponents, with the goal being to drive them into bankruptcy
